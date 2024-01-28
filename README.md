@@ -7,8 +7,8 @@
 
 **Task description:**
 
-- The given array of arr values, which can contain both regular elements and subarrays.
+- The given arr array of values, which can contain both regular elements and subarrays.
 
-- Leave only subarrays in it using the filter method.
+- Leave only subarrays in it using the filter() Array's Method.
 
 - Output the result to the console.
