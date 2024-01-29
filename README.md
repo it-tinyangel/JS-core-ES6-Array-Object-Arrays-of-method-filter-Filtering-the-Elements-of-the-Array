@@ -3,7 +3,7 @@
 ### ECMAScript 6 (ES6+). The JavaScript Array Object. The Arrays of methods. The filter() Array's Method. Destructuring assignment
 ***
 
-### Filtering the Elements of the Array that pass the test
+### Filtering of the Array elements that pass the test
 
 **Task description:**
 
